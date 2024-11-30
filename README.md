@@ -72,8 +72,8 @@ This project is supervised by [Professor Wei Pang](https://www.hw.ac.uk/staff/uk
 ```
 
 ## 📫 Contact
-For any questions or collaborations, feel free to reach out at **your_email@example.com**.
+For any inquiries or collaboration opportunities, feel free to reach out to me at [yj2012@hw.ac.uk](mailto:yj2012@hw.ac.uk).
 
 ---
 
-This project is a part of my Honours Dissertation and is subject to ongoing development. Contributions and feedback are welcome!
+This project is part of my academic research and is under active development. Feedback and contributions are welcome!
