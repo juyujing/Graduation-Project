@@ -56,20 +56,20 @@ For a detailed understanding of the project, you can refer to the [D1 Report](hw
 - Full experimental results will be included in future updates.
 
 ## 🧑‍🏫 Mentor
-This project is supervised by [Professor Wei Pang](https://www.hw.ac.uk/staff/uk/macs/weipang.html) at Heriot-Watt University.
+This project is supervised by [Professor Wei Pang](https://researchportal.hw.ac.uk/en/persons/wei-pang) at Heriot-Watt University.
 
 ## 🌐 Repository Structure
 ```
 .
 ├── D1Report.pdf        # Detailed project proposal and progress report
-├── configs/            # Configuration files for model training
-├── data/               # Academic citation datasets
-├── models/             # Implementation of DGNNs and HGNNs
 ├── requirements.txt    # Dependencies
-├── train.py            # Script for training the model
-├── evaluate.py         # Script for evaluating the model
 └── README.md           # Project documentation
+
 ```
+
+## 📚 License
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+For commercial purposes, please contact [your_email@example.com] to obtain explicit permission.
 
 ## 📫 Contact
 For any inquiries or collaboration opportunities, feel free to reach out to me at [yj2012@hw.ac.uk](mailto:yj2012@hw.ac.uk).
