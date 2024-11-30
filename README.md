@@ -62,7 +62,7 @@ This project is supervised by [Professor Wei Pang](https://researchportal.hw.ac.
 ```
 .
 ├── D1Report.pdf        # Detailed project proposal and progress report
-├── requirements.txt    # Dependencies
+├── LICENSE             # Creative Commons (CC BY 4.0) License
 └── README.md           # Project documentation
 
 ```
