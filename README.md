@@ -14,7 +14,7 @@ Welcome to the repository for my Honours Dissertation at Heriot-Watt University!
 3. **Improved Recommendation Accuracy**: Demonstrates the effectiveness of integrating directionality into heterogeneous structures through experimental analysis.
 
 ## 📚 D1 Report
-For a detailed understanding of the project, you can refer to the [D1 Report](D1Report.pdf) included in this repository. The report outlines:
+For a detailed understanding of the project, you can refer to the [D1 Report](hwu_cs_dissertation_1_report.pdf) included in this repository. The report outlines:
 - Problem Statement
 - Research Objectives
 - Preliminary Results
