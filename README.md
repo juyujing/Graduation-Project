@@ -69,7 +69,7 @@ This project is supervised by [Professor Wei Pang](https://researchportal.hw.ac.
 
 ## 📚 License
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
-For commercial purposes, please contact [your_email@example.com] to obtain explicit permission.
+For commercial purposes, please contact [yj2012@hw.ac.uk] to obtain explicit permission.
 
 ## 📫 Contact
 For any inquiries or collaboration opportunities, feel free to reach out to me at [yj2012@hw.ac.uk](mailto:yj2012@hw.ac.uk).
